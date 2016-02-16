@@ -1,7 +1,6 @@
 scriptId = 'com.example.miniExplorer'
 scriptTitle = "Mini Explorer"
-scriptDetailsUrl = --add url here later, apparently from the market website
-platform = "MacOS"
+scriptDetailsUrl = ""--add url here later, apparently from the market website
 
 function onPoseEdge(pose, edge)
     myo.debug("onPoseEdge: " .. pose .. ", " .. edge)
